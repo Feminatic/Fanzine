@@ -1,2 +1,2 @@
-# Fanzine
-Fanzine sobre derechos digitales
+# Fanzine FeminaTIC
+Un Fanzine sobre derechos digitales
