@@ -1,5 +1,5 @@
-# FanTIC
-Un Fanzine sobre derechos digitales, movilizado desde Feminatic, colectivo con base en Rosario, Argentina.
+# FeminaTIC / Fanzines sobre derechos digitales
+Fanzines sobre derechos digitales, con perspectiva de géneros y mirada feminista. Movilizado desde Feminatic, colectivo con base en Rosario, Argentina.
 
 ## Resumen
 Se trata de una serie de fanzines donde se abordarán temas vinculados a los derechos digitales, la privacidad, la ciberseguridad, la violencia digital y los autocuidados, todos ellos desarrollados y elaborados desde una perspectiva de género.
@@ -14,10 +14,11 @@ Este proyecto fue seleccionado, junto a otros, en la convocatoria **Girls4Privac
 ## Nuestros objetivos
 Queremos promover la autonomía de jóvenes y adolescentes en el uso de las tecnologías digitales. Sensibilizar en temas vinculados a violencias machistas en los espacios digitales para mejorar sus prácticas de protección y seguridad digital desde una perspectiva de géneros y feminista. El fanzine como recurso contiene narrativas de uso apropiados y es una interfaz colaborativa para trabajar con jóvenes y adolescentes en temas situados.
 
-## Equipo
-- *Ivana Mondelo*
-- *Virginia Brussa*
-- *Lucía de Luca (Diseños)*
+## Equipo FeminaTIC
+- *Ivana Mondelo (Producción general)*
+- *Virginia Brussa (Producción general)*
+- *Lucía de Luca (Diseño e Ilustración)*
 
 ## Licencia
-Este proyecto está bajo licencia [Creative Commons Attribution 4.0 International Public License](LICENSE.md)
+Este proyecto está bajo licencia [Creative Commons Attribución/Reconocimiento 4.0 International (CC BY 4.0](LICENSE.md)
+
