@@ -1,7 +1,7 @@
 ## Creative Commons Atribución/Reconocimiento 4.0 Licencia Pública Internacional — CC BY 4.0
 
-Resumen: https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES
-Versión en Inglés: https://creativecommons.org/licenses/by/4.0/legalcode
+[Resumen](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES)
+[Versión en Inglés](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Al ejercer los Derechos Licenciados (definidos a continuación), Usted acepta y acuerda estar obligado por los términos y condiciones de esta Licencia Internacional Pública de Atribución/Reconocimiento 4.0 de Creative Commons ("Licencia Pública"). En la medida en que esta Licencia Pública pueda ser interpretada como un contrato, a Usted se le otorgan los Derechos Licenciados en consideración a su aceptación de estos términos y condiciones, y el Licenciante le concede a Usted tales derechos en consideración a los beneficios que el Licenciante recibe por poner a disposición el Material Licenciado bajo estos términos y condiciones.
 
@@ -50,9 +50,10 @@ a- Otorgamiento de la licencia.
   6- Sin endoso. Nada de lo contenido en esta Licencia Pública constituye o puede interpretarse como un permiso para afirmar o implicar que Usted, o que Su uso del Material Licenciado, está conectado, patrocinado, respaldado o reconocido con estatus oficial por el Licenciante u otros designados para recibir la Atribución/Reconocimiento según lo dispuesto en la sección 3(a)(1)(A)(i).
 
 b- Otros derechos.
-            1-Los derechos morales, tales como el derecho a la integridad, no están comprendidos bajo esta Licencia Pública ni tampoco los derechos de publicidad y privacidad ni otros derechos personales similares. Sin embargo, en la medida de lo posible, el Licenciante renuncia y/o se compromete a no hacer valer ninguno de estos derechos que ostenta como Licenciante, limitándose a lo necesario para que Usted pueda ejercer los Derechos Licenciados, pero no de otra manera.
-            2- Los derechos de patentes y marcas no son objeto de esta Licencia Pública.
-            3- En la medida de lo posible, el Licenciante renuncia al derecho de cobrarle regalías a Usted por el ejercicio de los Derechos Licenciados, ya sea directamente o a través de una entidad de gestión colectiva bajo cualquier esquema de licenciamiento voluntario, renunciable o no renunciable. En todos los demás casos, el Licenciante se reserva expresamente cualquier derecho de cobrar esas regalías.
+
+  1-Los derechos morales, tales como el derecho a la integridad, no están comprendidos bajo esta Licencia Pública ni tampoco los derechos de publicidad y privacidad ni otros derechos personales similares. Sin embargo, en la medida de lo posible, el Licenciante renuncia y/o se compromete a no hacer valer ninguno de estos derechos que ostenta como Licenciante, limitándose a lo necesario para que Usted pueda ejercer los Derechos Licenciados, pero no de otra manera.
+  2- Los derechos de patentes y marcas no son objeto de esta Licencia Pública.
+  3- En la medida de lo posible, el Licenciante renuncia al derecho de cobrarle regalías a Usted por el ejercicio de los Derechos Licenciados, ya sea directamente o a través de una entidad de gestión colectiva bajo cualquier esquema de licenciamiento voluntario, renunciable o no renunciable. En todos los demás casos, el Licenciante se reserva expresamente cualquier derecho de cobrar esas regalías.
 
 ### Sección 3 – Condiciones de la Licencia.
 
@@ -105,7 +106,8 @@ b- En aquellos casos en que Su derecho a utilizar el Material Licenciado se haya
   1-automáticamente a partir de la fecha en que la violación sea subsanada, siempre y cuando esta se subsane dentro de los 30 días siguientes a partir de Su descubrimiento de la violación; o
   
   2- tras el restablecimiento expreso por parte del Licenciante.
-    Para evitar dudas, esta sección 6(b) no afecta ningún derecho que pueda tener el Licenciante a buscar resarcimiento por Sus violaciones de esta Licencia Pública.
+Para evitar dudas, esta sección 6(b) no afecta ningún derecho que pueda tener el Licenciante a buscar resarcimiento por Sus violaciones de esta Licencia Pública.
+
 c- Para evitar dudas, el Licenciante también puede ofrecer el Material Licenciado bajo términos o condiciones diferentes, o dejar de distribuir el Material Licenciado en cualquier momento; sin embargo, hacer esto no pondrá fin a esta Licencia Pública.
 
 d- Las secciones 1, 5, 6, 7, y 8 permanecerán vigentes a la terminación de esta Licencia Pública.
@@ -113,15 +115,19 @@ d- Las secciones 1, 5, 6, 7, y 8 permanecerán vigentes a la terminación de est
 ### Sección 7 – Otros Términos y Condiciones.
 
 a. El Licenciante no estará obligado por ningún término o condición adicional o diferente que Usted le comunique a menos que se acuerde expresamente.
+
 b. Cualquier arreglo, convenio o acuerdo en relación con el Material Licenciado que no se indique en este documento se considera separado e independiente de los términos y condiciones de esta Licencia Pública.
 
 ### Sección 8 – Interpretación.
 
 a- Para evitar dudas, esta Licencia Pública no es ni deberá interpretarse como una reducción, limitación, restricción, o una imposición de condiciones al uso de Material Licenciado que legalmente pueda realizarse sin permiso del titular, más allá de lo contemplado en esta Licencia Pública.
+
 b- En la medida de lo posible, si alguna disposición de esta Licencia Pública se considera inaplicable, esta será automáticamente modificada en la medida mínima necesaria para hacerla aplicable. Si la disposición no puede ser reformada, deberá ser eliminada de esta Licencia Pública sin afectar la exigibilidad de los términos y condiciones restantes.
+
 c- No se podrá renunciar a ningún término o condición de esta Licencia Pública, ni se consentirá ningún incumplimiento, a menos que se acuerde expresamente con el Licenciante.
+
 d- Nada en esta Licencia Pública constituye ni puede ser interpretado como una limitación o una renuncia a los privilegios e inmunidades que aplican al Licenciante o a Usted, incluyendo aquellos surgidos a partir de procesos legales de cualquier jurisdicción o autoridad.
 
 Creative Commons no es una parte en sus licencias públicas. No obstante, Creative Commons puede optar por aplicar una de sus licencias públicas al material que publica y en estos casos debe ser considerado como el “Licenciante”. El texto de las licencias públicas de Creative Commons está dedicado al dominio público bajo una licencia CC0 de Dedicación al Dominio Público. Excepto con el propósito limitado de indicar que el material se comparte bajo una licencia pública de Creative Commons o según lo permitido por las políticas de Creative Commons publicadas en creativecommons.org/policies, Creative Commons no autoriza el uso de la marca “Creative Commons” o cualquier otra marca o logotipo de Creative Commons sin su consentimiento previo por escrito, incluso, de manera enunciativa y no taxativa, en relación con modificaciones no autorizadas de cualquiera de sus licencias públicas o de cualquier otro acuerdo, arreglo o convenio relativos al uso de Material Licenciado. Para evitar cualquier duda, este párrafo no forma parte de las licencias públicas.
 
-Puede contactarse con Creative Commons en creativecommons.org.
+Puede contactarse con Creative Commons en [creativecommons.org.](www.creativecommons.org)
