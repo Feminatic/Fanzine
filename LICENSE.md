@@ -1,6 +1,7 @@
 ## Creative Commons Atribución/Reconocimiento 4.0 Licencia Pública Internacional — CC BY 4.0
 
 [Resumen](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES)
+
 [Versión en Inglés](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Al ejercer los Derechos Licenciados (definidos a continuación), Usted acepta y acuerda estar obligado por los términos y condiciones de esta Licencia Internacional Pública de Atribución/Reconocimiento 4.0 de Creative Commons ("Licencia Pública"). En la medida en que esta Licencia Pública pueda ser interpretada como un contrato, a Usted se le otorgan los Derechos Licenciados en consideración a su aceptación de estos términos y condiciones, y el Licenciante le concede a Usted tales derechos en consideración a los beneficios que el Licenciante recibe por poner a disposición el Material Licenciado bajo estos términos y condiciones.
