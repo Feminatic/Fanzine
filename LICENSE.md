@@ -5,23 +5,35 @@ Al ejercer los Derechos Licenciados (definidos a continuación), Usted acepta y 
 Sección 1 – Definiciones.
 
 a- Material Adaptado es aquel material protegido por Derechos de Autor y Derechos Similares que se deriva o se crea en base al Material Licenciado y en el cual el Material Licenciado se traduce, altera, arregla, transforma o modifica de manera tal que dicho resultado sea de aquellos que requieran autorización de acuerdo con los Derechos de Autor y Derechos Similares que ostenta el Licenciante. A los efectos de esta Licencia Pública, cuando el Material Licenciado se trate de una obra musical, una interpretación o una grabación sonora, la sincronización temporal de este material con una imagen en movimiento siempre producirá Material Adaptado.
+
 b- Licencia de adaptador es aquella licencia que Usted aplica a Sus Derechos de Autor y Derechos Similares en Sus contribuciones consideradas como Material Adaptado de acuerdo con los términos y condiciones de esta Licencia Pública.
+
 c- Derechos de Autor y Derechos Similares son todos aquellos derechos estrechamente vinculados a los derechos de autor, incluidos, de manera enunciativa y no taxativa, los derechos sobre las interpretaciones, las emisiones, las grabaciones sonoras y los Derechos "Sui Generis" sobre Bases de Datos, sin importar cómo estos derechos se encuentren enunciados o categorizados. A los efectos de esta Licencia Pública, los derechos especificados en las secciones 2(b)(1)-(2) no se consideran Derechos de Autor y Derechos Similares.
+
 d- Medidas Tecnológicas Efectivas son aquellas medidas que, en ausencia de la debida autorización, no pueden ser eludidas en virtud de las leyes que cumplen las obligaciones del artículo 11 del Tratado de la OMPI sobre Derecho de Autor adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
+
 e- Excepciones y Limitaciones son el uso justo (fair use), el trato justo (fair dealing) y/o cualquier otra excepción o limitación a los Derechos de Autor y Derechos Similares que se apliquen al uso el Material Licenciado.
+
 f- Material Licenciado es obra artística o literaria, base de datos o cualquier otro material al cual el Licenciante aplicó esta Licencia Pública.
+
 g- Derechos Licenciados son derechos otorgados a Usted bajo los términos y condiciones de esta Licencia Pública, los cuales se limitan a todos los Derechos de Autor y Derechos Similares que apliquen al uso del Material Licenciado y que el Licenciante tiene potestad legal para licenciar.
+
 h- Licenciante es el individuo(s) o la entidad(es) que concede derechos bajo esta Licencia Pública.
+
 i- Compartir significa proporcionar material al público por cualquier medio o procedimiento que requiera permiso conforme a los Derechos Licenciados, tales como la reproducción, exhibición pública, presentación pública, distribución, difusión, comunicación o importación, así como también su puesta a disposición, incluyendo formas en que el público pueda acceder al material desde un lugar y momento elegido individualmente por ellos.
+
 j- Derechos "Sui Generis" sobre Bases de Datos son aquellos derechos diferentes a los derechos de autor, resultantes de la Directiva 96/9/EC del Parlamento Europeo y del Consejo, de 11 de marzo de 1996 sobre la protección jurídica de las bases de datos, en sus versiones modificadas y/o posteriores, así como otros derechos esencialmente equivalentes en cualquier otra parte del mundo.
+
 k- Usted es el individuo o la entidad que ejerce los Derechos Licenciados en esta Licencia Pública. La palabra Su tiene un significado equivalente.
 
 Sección 2 – Ámbito de Aplicación.
 
 a- Otorgamiento de la licencia.
-1-Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante le otorga a Usted una licencia de carácter global, gratuita, no transferible a terceros, no exclusiva e irrevocable para ejercer los Derechos Licenciados sobre el Material Licenciado para:
-            reproducir y Compartir el Material Licenciado, en su totalidad o en parte; y
-            producir, reproducir y Compartir Material Adaptado.
+
+            1-Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante le otorga a Usted una licencia de carácter global, gratuita, no transferible a terceros, no exclusiva e irrevocable para ejercer los Derechos Licenciados sobre el Material Licenciado para:
+            i. reproducir y Compartir el Material Licenciado, en su totalidad o en parte; y
+            ii. producir, reproducir y Compartir Material Adaptado.
+            
 2- Excepciones y Limitaciones. Para evitar cualquier duda, donde se apliquen Excepciones y Limitaciones al uso del Material Licenciado, esta Licencia Pública no será aplicable, y Usted no tendrá necesidad de cumplir con sus términos y condiciones.
 3-Vigencia. La vigencia de esta Licencia Pública está especificada en la sección 6(a).
 4- Medios y formatos; modificaciones técnicas permitidas. El Licenciante le autoriza a Usted a ejercer los Derechos Licenciados en todos los medios y formatos, actualmente conocidos o por crearse en el futuro, y a realizar las modificaciones técnicas necesarias para ello. El Licenciante renuncia y/o se compromete a no hacer valer cualquier derecho o potestad para prohibirle a Usted realizar las modificaciones técnicas necesarias para ejercer los Derechos Licenciados, incluyendo las modificaciones técnicas necesarias para eludir las Medidas Tecnológicas Efectivas. A los efectos de esta Licencia Pública, la mera realización de modificaciones autorizadas por esta sección 2(a)(4) nunca produce Material Adaptado.
