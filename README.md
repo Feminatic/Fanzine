@@ -17,23 +17,23 @@ Queremos promover la autonomía de jóvenes y adolescentes en el uso de las tecn
 ## Contenidos
 Los contenidos para la primera tirada de fanzines se definieron con la idea de que funcionen como una serie interconectada pero que al mismo tiempo puedan consumirse de manera independiente. Los temas definidos hasta el momento son:
 
-### NRO 01 DERECHOS DIGITALES
+###  #01 Derechos Digitale
 Guía práctica para conocerlos, ejercerlos y defenderlos. Un pantallazo por los principales derechos digitales.
 
 [VER GUIÓN]
 
 [VER BOCETO]
 
-### NRO. 02 VIOLENCIAS DIGITALES
+### #02 Violencia de Género Digital
 ¿Qué son las violencias digitales? Definiciones y clasificación: los colectivos feministas identificaron cerca de 15 tipos diferentes de violencias digitales. Cómo afectan nuestros derechos digitales.
 
-### NRO. 03 SEGURIDAD Y AUTOCUIDADOS EN LÍNEA
+### #03 Seguridad y autocuidados en línea
 ¿Qué pasa cuando navegamos en internet o utilizamos nuestro móvil? ¿Que es la huella digital? Un repaso por herramientas y métodos de seguridad que son simples y accesibles, ya sea porque son parte de las mismas plataformas o dispositivos que utilizamos o porque están a mano para su descarga.
 
-### NRO. 04 CIBERACTIVISMO
+### #04 Ciberactivismo
 ¿Qué es el ciberactivismo? Repaso por los principales momentos de al activismo en la red, desde la Primavera Árabe hasta las movilizaciones de #NiunaMenos y #MeToo.
 
-### NRO. 05 NARRATIVAS Y DESINFORMACIÓN DIGITAL 
+### #05 Narrativas y desinformación digital 
 Campañas de desinformación y manipulación a través de los espacios digitales. ¿Qué son y cómo podemos evitarlas? ¿Con qué herramientas contamos para reconocerlas y combatirlas?
 
 
