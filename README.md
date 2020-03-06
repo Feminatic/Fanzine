@@ -17,12 +17,13 @@ Queremos promover la autonomía de jóvenes y adolescentes en el uso de las tecn
 ## Contenidos
 Los contenidos para la primera tirada de fanzines se definieron con la idea de que funcionen como una serie interconectada pero que al mismo tiempo puedan consumirse de manera independiente. Los temas definidos hasta el momento son:
 
-###  #01 Derechos Digitale
+###  #01 Derechos Digitales
 Guía práctica para conocerlos, ejercerlos y defenderlos. Un pantallazo por los principales derechos digitales.
 
-[VER GUIÓN]
+[VER GUIÓN](nro01_derechos digitales)
 
-[VER BOCETO]
+[VER BOCETO lado 1](https://github.com/Feminatic/Fanzine/blob/master/contenido/fanzine%2001_derechosdigitales_lado1.pdf)
+[VER BOCETO lado 2](https://github.com/Feminatic/Fanzine/blob/master/contenido/fanzine01_derechosdigitales_lado2.pdf)
 
 ### #02 Violencia de Género Digital
 ¿Qué son las violencias digitales? Definiciones y clasificación: los colectivos feministas identificaron cerca de 15 tipos diferentes de violencias digitales. Cómo afectan nuestros derechos digitales.
