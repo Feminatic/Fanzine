@@ -20,7 +20,7 @@ Los contenidos para la primera tirada de fanzines se definieron con la idea de q
 #### Fanzine 01 / Derechos Digitales
 Guía práctica para conocerlos, ejercerlos y defenderlos. Un pantallazo por los principales derechos digitales.
 
-[VER GUIÓN](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/textos01_derechosdigitales.odt)
+[VER GUIÓN](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/textos01_derechosdigitales.pdf)
 
 [VER BOCETO lado 1](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/fanzine%2001_derechosdigitales_lado1.pdf)
 
