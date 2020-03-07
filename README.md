@@ -20,11 +20,11 @@ Los contenidos para la primera tirada de fanzines se definieron con la idea de q
 ###  #01 Derechos Digitales
 Guía práctica para conocerlos, ejercerlos y defenderlos. Un pantallazo por los principales derechos digitales.
 
-[VER GUIÓN](https://github.com/Feminatic/Fanzine/blob/master/contenido/nro01_derechos%20digitales)
+[VER GUIÓN](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/textos01_derechosdigitales.odt)
 
-[VER BOCETO lado 1](https://github.com/Feminatic/Fanzine/blob/master/contenido/fanzine%2001_derechosdigitales_lado1.pdf)
+[VER BOCETO lado 1](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/fanzine%2001_derechosdigitales_lado1.pdf)
 
-[VER BOCETO lado 2](https://github.com/Feminatic/Fanzine/blob/master/contenido/fanzine01_derechosdigitales_lado2.pdf)
+[VER BOCETO lado 2](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/fanzine01_derechosdigitales_lado2.pdf)
 
 ### #02 Violencia de Género Digital
 ¿Qué son las violencias digitales? Definiciones y clasificación: los colectivos feministas identificaron cerca de 15 tipos diferentes de violencias digitales. Cómo afectan nuestros derechos digitales.
