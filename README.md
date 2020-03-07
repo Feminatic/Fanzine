@@ -17,7 +17,7 @@ Queremos promover la autonomía de jóvenes y adolescentes en el uso de las tecn
 ## Contenidos
 Los contenidos para la primera tirada de fanzines se definieron con la idea de que funcionen como una serie interconectada pero que al mismo tiempo puedan consumirse de manera independiente. Los temas definidos hasta el momento son:
 
-###  #01 Derechos Digitales
+#### Fanzine 01 / Derechos Digitales
 Guía práctica para conocerlos, ejercerlos y defenderlos. Un pantallazo por los principales derechos digitales.
 
 [VER GUIÓN](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/textos01_derechosdigitales.odt)
@@ -26,20 +26,28 @@ Guía práctica para conocerlos, ejercerlos y defenderlos. Un pantallazo por los
 
 [VER BOCETO lado 2](https://github.com/Feminatic/Fanzine/blob/master/contenidos01_derechosdigitales/fanzine01_derechosdigitales_lado2.pdf)
 
-### #02 Violencia de Género Digital
+
+#### Fanzine 02 / Violencia de Género Digital
 ¿Qué son las violencias digitales? Definiciones y clasificación: los colectivos feministas identificaron cerca de 15 tipos diferentes de violencias digitales. Cómo afectan nuestros derechos digitales.
 
 [VER GUION](https://github.com/Feminatic/Fanzine/blob/master/contenidos02_violenciadeg%C3%A9nerodigital/textos02_violencia%20degenerodigital.pdf)
 
-
-### #03 Seguridad y autocuidados en línea
+#### Fanzine 03 / Seguridad y autocuidados en línea
 ¿Qué pasa cuando navegamos en internet o utilizamos nuestro móvil? ¿Que es la huella digital? Un repaso por herramientas y métodos de seguridad que son simples y accesibles, ya sea porque son parte de las mismas plataformas o dispositivos que utilizamos o porque están a mano para su descarga.
 
-### #04 Ciberactivismo
+#### Fanzine 04 / Ciberactivismo
 ¿Qué es el ciberactivismo? Repaso por los principales momentos de al activismo en la red, desde la Primavera Árabe hasta las movilizaciones de #NiunaMenos y #MeToo.
 
-### #05 Narrativas y desinformación digital 
+#### Fanzine 05 / Narrativas y desinformación digital 
 Campañas de desinformación y manipulación a través de los espacios digitales. ¿Qué son y cómo podemos evitarlas? ¿Con qué herramientas contamos para reconocerlas y combatirlas?
+
+## Guías de apoyo y materiales complementarios
+
+Incluimos una serie de materiales que acompañen a cada temática desarrollada en los fanzines. Queremos aportar información complementaria, ejemplos, historias, actividades lúdicas, materiales didácticos, etc.
+
+El fanzine como tal soporte nos ofrece un espacio reducido para la cantidad de información que tenemos para compartir. La idea es ofrecer parte de lo que quedaría por fuera, de modo que esté más a mano encontrar información que amplíe los conceptos desarrollados. Al mismo tiempo que pueda ser un insumo para las personas que oficien de facilitadores/as en clases y talleres donde se trabaje con los fanzines, con la idea de que como actividad lúdica se puedan desarrollan fanzines propios. 
+
+[próximamente]
 
 
 ## Equipo FeminaTIC
