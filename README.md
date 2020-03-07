@@ -29,7 +29,7 @@ Guía práctica para conocerlos, ejercerlos y defenderlos. Un pantallazo por los
 ### #02 Violencia de Género Digital
 ¿Qué son las violencias digitales? Definiciones y clasificación: los colectivos feministas identificaron cerca de 15 tipos diferentes de violencias digitales. Cómo afectan nuestros derechos digitales.
 
-[VER GUION](https://github.com/Feminatic/Fanzine/blob/master/contenido/nro02_violenciadegenerodigital)
+[VER GUION](https://github.com/Feminatic/Fanzine/blob/master/contenidos02_violenciadeg%C3%A9nerodigital/textos02_violencia%20degenerodigital.pdf)
 
 
 ### #03 Seguridad y autocuidados en línea
